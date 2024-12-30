@@ -18,4 +18,13 @@ A MicroPython-based OLED clock running on Raspberry Pi Pico W that synchronizes 
 
 ## Installation
 
-1.  Clone this repository to your local machine: \`\`\`bash git clone [https://github.com/qvme/upython-oled-binary-clock.git](https://github.com/yourusername/upython-oled-binary-clock.git){.uri}
+1.  Clone this repository to your local machine:
+    ```bash
+    git clone https://github.com/qvme/upython-oled-binary-clock.git
+    ```
+## Results
+  sample video: [link](https://www.youtube.com/watch?v=ym-QUnERqA4)
+  
+  sample image:
+  ![alt text](https://github.com/Qvme/upython-oled-binary-clock/blob/main/assets/img.jpg?raw=true)
+    
